@@ -16,5 +16,5 @@ jobs:
           # Options
           user: z-jxy
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: activity, community, repositories, metadata
           config_timezone: America/New_York
