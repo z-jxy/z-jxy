@@ -31,6 +31,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
+          repositories_forks: yes
 
       - uses: lowlighter/metrics@latest
         with:
