@@ -1,4 +1,4 @@
 ### 👋
 ![Metrics](/github-metrics.svg)
 
-![Top Languages](./profile/top-langs.svg)
+![Top Languages](./profile/top-langs.svg )
