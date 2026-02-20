@@ -18,7 +18,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide=c%23&hide=python&hide_border=true
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide=c%23&hide=python&hide=makefile&hide=javascript&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
